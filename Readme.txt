@@ -8,7 +8,8 @@
   
   The Hardware
   -----------
-  The purpose of the hardware device is to emulate sndvol in appearance and control. This will consist of 1 slider for each active program and 1 master volume command. 
+  The purpose of the hardware device is to emulate sndvol in appearance and control. 
+  This will consist of 1 slider for each active program and 1 master volume command. 
   The hardware device in its current form exists as follows:
   5 - 10k Slide Potentiometers
   4 - 0.96in Full color OLED displays
